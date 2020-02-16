@@ -1,2 +1,2 @@
-# uri
+# URI
 URI Online Judge
