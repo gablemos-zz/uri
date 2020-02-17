@@ -1,3 +1,5 @@
+https://www.urionlinejudge.com.br/judge/pt/faqs/about/examples
+
 ```c++
 
   //1001.cpp
@@ -17,4 +19,25 @@
   //1001.java
 
   TODO
+```
+
+```Python
+
+  # 1001py2.py
+
+  python2 1001py2.py
+```
+
+```Python
+
+  # 1001py3.py
+
+  python 1001py3.py
+```
+
+```Javascript
+
+  //1001.js
+
+  node 1001.js
 ```
