@@ -1,3 +1,20 @@
-# URI
-URI Online Judge
-Profile: https://www.urionlinejudge.com.br/judge/pt/profile/106181
+```c++
+
+  //1001.cpp
+
+  g++ -o fileName 1001.cpp
+```
+
+```c#
+
+  //1001.cs
+
+  csc /out:filename.exe 1001.cs
+```
+
+```Java
+
+  //1001.java
+
+  TODO
+```
